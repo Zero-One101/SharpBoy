@@ -42,6 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DMG.cs" />
+    <Compile Include="GBRom.cs" />
+    <Compile Include="ICPU.cs" />
+    <Compile Include="IRom.cs" />
+    <Compile Include="IRomLoader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
